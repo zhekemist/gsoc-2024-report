@@ -1,0 +1,16 @@
+theme = 'hugo-bearblog'
+
+title = "GSoC 2024 @ HPX"
+author = "Tobias Wukovitsch"
+copyright = "Copyright © 2024, Tobias Wukovitsch."
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[params]
+  title = "GSoC 2024 @ HPX"
+  description = "This is my final work product submission for the GSoC 2024 at HPX."
+  favicon = "images/favicon.ico"
