@@ -1,5 +1,5 @@
-# GSoC 2024 @ HPX - Final Report
+# GSoC Pages
 
-This is my final work product submission for the Google Summer of Code 2024 at HPX.
-
-It was generated with [Hugo](https://gohugo.io/) and is using the [Hugo Bear Blog Theme](https://github.com/janraasch/hugo-bearblog/).
+This is a personal collection of some documents related to the Google Summer of 
+Code. The main purpose of it is to provide a stable location for my final work
+product submission.

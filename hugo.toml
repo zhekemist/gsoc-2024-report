@@ -1,16 +1,23 @@
+baseURL = "https://gsoc.wukovitsch.com"
 theme = 'hugo-bearblog'
 
-title = "GSoC 2024 @ HPX"
+title = "Google Summer of Code"
 author = "Tobias Wukovitsch"
 copyright = "Copyright © 2024, Tobias Wukovitsch."
 languageCode = "en-US"
 
 enableRobotsTXT = true
 
+enableEmoji = true
+
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
+[permalinks]
+  pages = "/:slug/"
+
 [params]
-  title = "GSoC 2024 @ HPX"
-  description = "This is my final work product submission for the GSoC 2024 at HPX."
-  favicon = "images/favicon.ico"
+  title = "Google Summer of Code"
+  description = "This a personal collection of documents related to GSoC."
+  favicon = "images/favicon.png"
+  hideMadeWithLine = true
