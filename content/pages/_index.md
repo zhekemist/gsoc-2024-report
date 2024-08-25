@@ -1,5 +1,5 @@
 +++
-title = "All Documents"
+title = "All Pages"
 +++
 
-# All Documents
+# All Pages
